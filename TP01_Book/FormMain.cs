@@ -46,11 +46,11 @@
                     int check = context.SaveChanges();
                     if (check == 0)
                     {
-                        MessageBox.Show("Thêm mới dữ liệu không thành công!");
+                        MessageBox.Show("Cập nhật dữ liệu không thành công!");
                     }
                     else
                     {
-                        MessageBox.Show("Thêm mới dữ liệu thành công!");
+                        MessageBox.Show("Cập nhật dữ liệu thành công!");
                         dgvBook.DataSource = context.Books.ToList();
                     }
                 }
@@ -68,11 +68,11 @@
                     int check = context.SaveChanges();
                     if (check == 0)
                     {
-                        MessageBox.Show("Thêm mới dữ liệu không thành công!");
+                        MessageBox.Show("Xóa dữ liệu không thành công!");
                     }
                     else
                     {
-                        MessageBox.Show("Thêm mới dữ liệu thành công!");
+                        MessageBox.Show("Xóa dữ liệu thành công!");
                         dgvBook.DataSource = context.Books.ToList();
                     }
                 }
@@ -95,6 +95,14 @@
             txtPrice.Text = dgvBook.Rows[e.RowIndex].Cells[2].Value.ToString();
             txtQuantity.Text = dgvBook.Rows[e.RowIndex].Cells[3].Value.ToString();
             txtDescription.Text = dgvBook.Rows[e.RowIndex].Cells[4].Value.ToString();
+        }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            using (var context = new BookDbContext())
+            {
+                dgvBook.DataSource = context.Books.Where(b => b.Name.Contains(txtSearch.Text)).ToList();
+            }
         }
     }
 }

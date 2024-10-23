@@ -128,3 +128,4 @@ D:\Project VS\DOTNET_KTKN3\TP01_Book\obj\Debug\net8.0-windows\refint\TP01_Book.d
 D:\Project VS\DOTNET_KTKN3\TP01_Book\obj\Debug\net8.0-windows\TP01_Book.pdb
 D:\Project VS\DOTNET_KTKN3\TP01_Book\obj\Debug\net8.0-windows\TP01_Book.genruntimeconfig.cache
 D:\Project VS\DOTNET_KTKN3\TP01_Book\obj\Debug\net8.0-windows\ref\TP01_Book.dll
+D:\Project VS\DOTNET_KTKN3\TP01_Book\obj\Debug\net8.0-windows\TP01_Book.sourcelink.json

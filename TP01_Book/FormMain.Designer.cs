@@ -28,12 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            splitContainer1 = new SplitContainer();
+            txtSearch = new TextBox();
+            lbSearch = new Label();
             btnLoadData = new Button();
             btnDelete = new Button();
             btnUpdate = new Button();
             btnAddNew = new Button();
-            txtDescription = new RichTextBox();
             txtQuantity = new TextBox();
             txtPrice = new TextBox();
             txtName = new TextBox();
@@ -43,216 +43,231 @@
             lbPrice = new Label();
             lbName = new Label();
             lbId = new Label();
+            btnSearch = new Button();
+            txtDescription = new TextBox();
             dgvBook = new DataGridView();
-            ((System.ComponentModel.ISupportInitialize)splitContainer1).BeginInit();
-            splitContainer1.Panel1.SuspendLayout();
-            splitContainer1.Panel2.SuspendLayout();
-            splitContainer1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dgvBook).BeginInit();
             SuspendLayout();
             // 
-            // splitContainer1
+            // txtSearch
             // 
-            splitContainer1.Dock = DockStyle.Fill;
-            splitContainer1.Location = new Point(0, 0);
-            splitContainer1.Name = "splitContainer1";
+            txtSearch.Location = new Point(148, 34);
+            txtSearch.Name = "txtSearch";
+            txtSearch.Size = new Size(974, 29);
+            txtSearch.TabIndex = 31;
             // 
-            // splitContainer1.Panel1
+            // lbSearch
             // 
-            splitContainer1.Panel1.Controls.Add(btnLoadData);
-            splitContainer1.Panel1.Controls.Add(btnDelete);
-            splitContainer1.Panel1.Controls.Add(btnUpdate);
-            splitContainer1.Panel1.Controls.Add(btnAddNew);
-            splitContainer1.Panel1.Controls.Add(txtDescription);
-            splitContainer1.Panel1.Controls.Add(txtQuantity);
-            splitContainer1.Panel1.Controls.Add(txtPrice);
-            splitContainer1.Panel1.Controls.Add(txtName);
-            splitContainer1.Panel1.Controls.Add(txtId);
-            splitContainer1.Panel1.Controls.Add(lbDescribe);
-            splitContainer1.Panel1.Controls.Add(lbQuantity);
-            splitContainer1.Panel1.Controls.Add(lbPrice);
-            splitContainer1.Panel1.Controls.Add(lbName);
-            splitContainer1.Panel1.Controls.Add(lbId);
-            // 
-            // splitContainer1.Panel2
-            // 
-            splitContainer1.Panel2.Controls.Add(dgvBook);
-            splitContainer1.Size = new Size(1029, 630);
-            splitContainer1.SplitterDistance = 408;
-            splitContainer1.TabIndex = 0;
+            lbSearch.AutoSize = true;
+            lbSearch.Location = new Point(42, 38);
+            lbSearch.Name = "lbSearch";
+            lbSearch.Size = new Size(100, 21);
+            lbSearch.TabIndex = 30;
+            lbSearch.Text = "Tim theo tên:";
             // 
             // btnLoadData
             // 
-            btnLoadData.Font = new Font("Segoe UI", 9.75F);
-            btnLoadData.Location = new Point(297, 567);
+            btnLoadData.Cursor = Cursors.Hand;
+            btnLoadData.Font = new Font("Segoe UI", 14.25F);
+            btnLoadData.Location = new Point(1074, 612);
             btnLoadData.Name = "btnLoadData";
-            btnLoadData.Size = new Size(75, 31);
-            btnLoadData.TabIndex = 13;
+            btnLoadData.Size = new Size(129, 53);
+            btnLoadData.TabIndex = 10;
             btnLoadData.Text = "Tải lại";
             btnLoadData.UseVisualStyleBackColor = true;
             btnLoadData.Click += btnLoadData_Click;
             // 
             // btnDelete
             // 
-            btnDelete.Font = new Font("Segoe UI", 9.75F);
-            btnDelete.Location = new Point(208, 567);
+            btnDelete.Cursor = Cursors.Hand;
+            btnDelete.Font = new Font("Segoe UI", 14.25F);
+            btnDelete.Location = new Point(738, 612);
             btnDelete.Name = "btnDelete";
-            btnDelete.Size = new Size(75, 31);
-            btnDelete.TabIndex = 12;
+            btnDelete.Size = new Size(129, 53);
+            btnDelete.TabIndex = 9;
             btnDelete.Text = "Xóa";
             btnDelete.UseVisualStyleBackColor = true;
             btnDelete.Click += btnDelete_Click;
             // 
             // btnUpdate
             // 
-            btnUpdate.Font = new Font("Segoe UI", 9.75F);
-            btnUpdate.Location = new Point(119, 567);
+            btnUpdate.Cursor = Cursors.Hand;
+            btnUpdate.Font = new Font("Segoe UI", 14.25F);
+            btnUpdate.Location = new Point(402, 612);
             btnUpdate.Name = "btnUpdate";
-            btnUpdate.Size = new Size(75, 31);
-            btnUpdate.TabIndex = 11;
+            btnUpdate.Size = new Size(129, 53);
+            btnUpdate.TabIndex = 8;
             btnUpdate.Text = "Cập nhật";
             btnUpdate.UseVisualStyleBackColor = true;
             btnUpdate.Click += btnUpdate_Click;
             // 
             // btnAddNew
             // 
-            btnAddNew.Font = new Font("Segoe UI", 9.75F);
-            btnAddNew.Location = new Point(30, 567);
+            btnAddNew.Cursor = Cursors.Hand;
+            btnAddNew.Font = new Font("Segoe UI", 14.25F);
+            btnAddNew.Location = new Point(66, 612);
             btnAddNew.Name = "btnAddNew";
-            btnAddNew.Size = new Size(75, 31);
-            btnAddNew.TabIndex = 10;
+            btnAddNew.Size = new Size(129, 53);
+            btnAddNew.TabIndex = 7;
             btnAddNew.Text = "Thêm mới";
             btnAddNew.UseVisualStyleBackColor = true;
             btnAddNew.Click += btnAddNew_Click;
             // 
-            // txtDescription
-            // 
-            txtDescription.Location = new Point(112, 301);
-            txtDescription.Name = "txtDescription";
-            txtDescription.Size = new Size(262, 223);
-            txtDescription.TabIndex = 9;
-            txtDescription.Text = "";
-            // 
             // txtQuantity
             // 
-            txtQuantity.Location = new Point(112, 228);
+            txtQuantity.Location = new Point(742, 139);
             txtQuantity.Name = "txtQuantity";
-            txtQuantity.Size = new Size(262, 29);
-            txtQuantity.TabIndex = 8;
+            txtQuantity.Size = new Size(461, 29);
+            txtQuantity.TabIndex = 5;
             // 
             // txtPrice
             // 
-            txtPrice.Location = new Point(112, 162);
+            txtPrice.Location = new Point(742, 87);
             txtPrice.Name = "txtPrice";
-            txtPrice.Size = new Size(262, 29);
-            txtPrice.TabIndex = 7;
+            txtPrice.Size = new Size(461, 29);
+            txtPrice.TabIndex = 4;
             // 
             // txtName
             // 
-            txtName.Location = new Point(112, 96);
+            txtName.Location = new Point(148, 139);
             txtName.Name = "txtName";
-            txtName.Size = new Size(262, 29);
-            txtName.TabIndex = 6;
+            txtName.Size = new Size(456, 29);
+            txtName.TabIndex = 3;
             // 
             // txtId
             // 
-            txtId.Location = new Point(112, 30);
+            txtId.Location = new Point(148, 86);
             txtId.Name = "txtId";
-            txtId.Size = new Size(262, 29);
-            txtId.TabIndex = 5;
+            txtId.ReadOnly = true;
+            txtId.Size = new Size(456, 29);
+            txtId.TabIndex = 21;
             // 
             // lbDescribe
             // 
             lbDescribe.AutoSize = true;
-            lbDescribe.Location = new Point(25, 297);
+            lbDescribe.Location = new Point(78, 194);
             lbDescribe.Name = "lbDescribe";
             lbDescribe.Size = new Size(53, 21);
-            lbDescribe.TabIndex = 4;
+            lbDescribe.TabIndex = 20;
             lbDescribe.Text = "Mô tả:";
             // 
             // lbQuantity
             // 
             lbQuantity.AutoSize = true;
-            lbQuantity.Location = new Point(25, 231);
+            lbQuantity.Location = new Point(660, 142);
             lbQuantity.Name = "lbQuantity";
             lbQuantity.Size = new Size(76, 21);
-            lbQuantity.TabIndex = 3;
+            lbQuantity.TabIndex = 19;
             lbQuantity.Text = "Số lượng:";
             // 
             // lbPrice
             // 
             lbPrice.AutoSize = true;
-            lbPrice.Location = new Point(25, 165);
+            lbPrice.Location = new Point(700, 90);
             lbPrice.Name = "lbPrice";
             lbPrice.Size = new Size(36, 21);
-            lbPrice.TabIndex = 2;
+            lbPrice.TabIndex = 18;
             lbPrice.Text = "Giá:";
             // 
             // lbName
             // 
             lbName.AutoSize = true;
-            lbName.Location = new Point(25, 99);
+            lbName.Location = new Point(60, 142);
             lbName.Name = "lbName";
             lbName.Size = new Size(71, 21);
-            lbName.TabIndex = 1;
+            lbName.TabIndex = 17;
             lbName.Text = "Tên sách:";
             // 
             // lbId
             // 
             lbId.AutoSize = true;
-            lbId.Location = new Point(25, 33);
+            lbId.Location = new Point(61, 90);
             lbId.Name = "lbId";
             lbId.Size = new Size(70, 21);
-            lbId.TabIndex = 0;
+            lbId.TabIndex = 16;
             lbId.Text = "Mã sách:";
+            // 
+            // btnSearch
+            // 
+            btnSearch.Cursor = Cursors.Hand;
+            btnSearch.Font = new Font("Segoe UI", 9.75F);
+            btnSearch.Location = new Point(1128, 32);
+            btnSearch.Name = "btnSearch";
+            btnSearch.Size = new Size(75, 31);
+            btnSearch.TabIndex = 2;
+            btnSearch.Text = "Tìm kiếm";
+            btnSearch.UseVisualStyleBackColor = true;
+            btnSearch.Click += btnSearch_Click;
+            // 
+            // txtDescription
+            // 
+            txtDescription.Location = new Point(148, 191);
+            txtDescription.Name = "txtDescription";
+            txtDescription.Size = new Size(1055, 29);
+            txtDescription.TabIndex = 6;
             // 
             // dgvBook
             // 
+            dgvBook.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dgvBook.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvBook.Dock = DockStyle.Fill;
-            dgvBook.Location = new Point(0, 0);
+            dgvBook.Location = new Point(66, 237);
             dgvBook.Name = "dgvBook";
             dgvBook.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dgvBook.Size = new Size(617, 630);
-            dgvBook.TabIndex = 0;
+            dgvBook.Size = new Size(1137, 369);
+            dgvBook.TabIndex = 32;
             dgvBook.CellClick += dgvBook_CellClick;
             // 
             // FormMain
             // 
             AutoScaleDimensions = new SizeF(9F, 21F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1029, 630);
-            Controls.Add(splitContainer1);
+            ClientSize = new Size(1264, 681);
+            Controls.Add(dgvBook);
+            Controls.Add(txtDescription);
+            Controls.Add(btnSearch);
+            Controls.Add(txtSearch);
+            Controls.Add(lbSearch);
+            Controls.Add(btnLoadData);
+            Controls.Add(btnDelete);
+            Controls.Add(btnUpdate);
+            Controls.Add(btnAddNew);
+            Controls.Add(txtQuantity);
+            Controls.Add(txtPrice);
+            Controls.Add(txtName);
+            Controls.Add(txtId);
+            Controls.Add(lbDescribe);
+            Controls.Add(lbQuantity);
+            Controls.Add(lbPrice);
+            Controls.Add(lbName);
+            Controls.Add(lbId);
             Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             Margin = new Padding(4);
             Name = "FormMain";
-            Text = "Form1";
-            splitContainer1.Panel1.ResumeLayout(false);
-            splitContainer1.Panel1.PerformLayout();
-            splitContainer1.Panel2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)splitContainer1).EndInit();
-            splitContainer1.ResumeLayout(false);
+            Text = "FormMain";
             ((System.ComponentModel.ISupportInitialize)dgvBook).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
-        private SplitContainer splitContainer1;
-        private DataGridView dgvBook;
-        private Label lbId;
-        private Label lbDescribe;
-        private Label lbQuantity;
-        private Label lbPrice;
-        private Label lbName;
-        private RichTextBox txtDescription;
-        private TextBox txtQuantity;
-        private TextBox txtPrice;
-        private TextBox txtName;
-        private TextBox txtId;
+        private TextBox txtSearch;
+        private Label lbSearch;
         private Button btnLoadData;
         private Button btnDelete;
         private Button btnUpdate;
         private Button btnAddNew;
+        private TextBox txtQuantity;
+        private TextBox txtPrice;
+        private TextBox txtName;
+        private TextBox txtId;
+        private Label lbDescribe;
+        private Label lbQuantity;
+        private Label lbPrice;
+        private Label lbName;
+        private Label lbId;
+        private Button btnSearch;
+        private TextBox txtDescription;
+        private DataGridView dgvBook;
     }
 }
