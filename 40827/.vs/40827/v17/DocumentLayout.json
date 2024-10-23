@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project VS\\DOTNET_KTKN3\\40827\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF7724B-FCEB-4184-A46C-AA1D21E92167}|40827.csproj|d:\\project vs\\dotnet_ktkn3\\40827\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF7724B-FCEB-4184-A46C-AA1D21E92167}|40827.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF7724B-FCEB-4184-A46C-AA1D21E92167}|40827.csproj|d:\\project vs\\dotnet_ktkn3\\40827\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF7724B-FCEB-4184-A46C-AA1D21E92167}|40827.csproj|solutionrelative:productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project VS\\DOTNET_KTKN3\\40827\\Migrations\\20241023100339_initCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241023100339_initCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF7724B-FCEB-4184-A46C-AA1D21E92167}|40827.csproj|d:\\project vs\\dotnet_ktkn3\\40827\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF7724B-FCEB-4184-A46C-AA1D21E92167}|40827.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF7724B-FCEB-4184-A46C-AA1D21E92167}|40827.csproj|d:\\project vs\\dotnet_ktkn3\\40827\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BF7724B-FCEB-4184-A46C-AA1D21E92167}|40827.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241023100339_initCreate.cs",
+              "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\40827\\Migrations\\20241023100339_initCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241023100339_initCreate.cs",
+              "ToolTip": "D:\\Project VS\\DOTNET_KTKN3\\40827\\Migrations\\20241023100339_initCreate.cs",
+              "RelativeToolTip": "Migrations\\20241023100339_initCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:03:39.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\40827\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "ProductDbContext.cs",
+              "ToolTip": "D:\\Project VS\\DOTNET_KTKN3\\40827\\ProductDbContext.cs",
+              "RelativeToolTip": "ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:58:27.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\40827\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\Project VS\\DOTNET_KTKN3\\40827\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:58:11.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\40827\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "D:\\Project VS\\DOTNET_KTKN3\\40827\\FormMain.cs [Design]",
+              "RelativeToolTip": "FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:55:45.502Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\40827\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "D:\\Project VS\\DOTNET_KTKN3\\40827\\FormMain.cs",
+              "RelativeToolTip": "FormMain.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowD0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:55:40.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
