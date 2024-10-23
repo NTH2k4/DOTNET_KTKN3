@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project VS\\DOTNET_KTKN3\\40829\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C11E6445-AC10-4FBC-84E7-3BB176E91E4D}|40829.csproj|d:\\project vs\\dotnet_ktkn3\\40829\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11E6445-AC10-4FBC-84E7-3BB176E91E4D}|40829.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11E6445-AC10-4FBC-84E7-3BB176E91E4D}|40829.csproj|d:\\project vs\\dotnet_ktkn3\\40829\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11E6445-AC10-4FBC-84E7-3BB176E91E4D}|40829.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11E6445-AC10-4FBC-84E7-3BB176E91E4D}|40829.csproj|d:\\project vs\\dotnet_ktkn3\\40829\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11E6445-AC10-4FBC-84E7-3BB176E91E4D}|40829.csproj|solutionrelative:orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11E6445-AC10-4FBC-84E7-3BB176E91E4D}|40829.csproj|d:\\project vs\\dotnet_ktkn3\\40829\\migrations\\20241023105853_initcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11E6445-AC10-4FBC-84E7-3BB176E91E4D}|40829.csproj|solutionrelative:migrations\\20241023105853_initcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11E6445-AC10-4FBC-84E7-3BB176E91E4D}|40829.csproj|d:\\project vs\\dotnet_ktkn3\\40829\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C11E6445-AC10-4FBC-84E7-3BB176E91E4D}|40829.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11E6445-AC10-4FBC-84E7-3BB176E91E4D}|40829.csproj|d:\\project vs\\dotnet_ktkn3\\40829\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11E6445-AC10-4FBC-84E7-3BB176E91E4D}|40829.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241023105853_initCreate.cs",
+              "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\40829\\Migrations\\20241023105853_initCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241023105853_initCreate.cs",
+              "ToolTip": "D:\\Project VS\\DOTNET_KTKN3\\40829\\Migrations\\20241023105853_initCreate.cs",
+              "RelativeToolTip": "Migrations\\20241023105853_initCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:04:22.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\40829\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "D:\\Project VS\\DOTNET_KTKN3\\40829\\FormMain.cs [Design]",
+              "RelativeToolTip": "FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:51:59.212Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\40829\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "OrderDbContext.cs",
+              "ToolTip": "D:\\Project VS\\DOTNET_KTKN3\\40829\\OrderDbContext.cs",
+              "RelativeToolTip": "OrderDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:37:35.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\40829\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "D:\\Project VS\\DOTNET_KTKN3\\40829\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:37:24.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\40829\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "D:\\Project VS\\DOTNET_KTKN3\\40829\\FormMain.cs",
+              "RelativeToolTip": "FormMain.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowF4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:35:50.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\40829\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Project VS\\DOTNET_KTKN3\\40829\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:35:31.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
