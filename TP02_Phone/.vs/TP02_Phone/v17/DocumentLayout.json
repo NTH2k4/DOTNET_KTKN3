@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project VS\\DOTNET_KTKN3\\TP02_Phone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2758A5-279D-47D4-8345-D603105BE792}|TP02_Phone.csproj|d:\\project vs\\dotnet_ktkn3\\tp02_phone\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2758A5-279D-47D4-8345-D603105BE792}|TP02_Phone.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2758A5-279D-47D4-8345-D603105BE792}|TP02_Phone.csproj|d:\\project vs\\dotnet_ktkn3\\tp02_phone\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D2758A5-279D-47D4-8345-D603105BE792}|TP02_Phone.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2758A5-279D-47D4-8345-D603105BE792}|TP02_Phone.csproj|d:\\project vs\\dotnet_ktkn3\\tp02_phone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2758A5-279D-47D4-8345-D603105BE792}|TP02_Phone.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2758A5-279D-47D4-8345-D603105BE792}|TP02_Phone.csproj|d:\\project vs\\dotnet_ktkn3\\tp02_phone\\phonedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2758A5-279D-47D4-8345-D603105BE792}|TP02_Phone.csproj|solutionrelative:phonedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2758A5-279D-47D4-8345-D603105BE792}|TP02_Phone.csproj|d:\\project vs\\dotnet_ktkn3\\tp02_phone\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2758A5-279D-47D4-8345-D603105BE792}|TP02_Phone.csproj|solutionrelative:phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\TP02_Phone\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "D:\\Project VS\\DOTNET_KTKN3\\TP02_Phone\\FormMain.cs",
+              "RelativeToolTip": "FormMain.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowGcAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:39:14.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\TP02_Phone\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Project VS\\DOTNET_KTKN3\\TP02_Phone\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:38:28.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhoneDbContext.cs",
+              "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\TP02_Phone\\PhoneDbContext.cs",
+              "RelativeDocumentMoniker": "PhoneDbContext.cs",
+              "ToolTip": "D:\\Project VS\\DOTNET_KTKN3\\TP02_Phone\\PhoneDbContext.cs",
+              "RelativeToolTip": "PhoneDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:38:27.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\TP02_Phone\\Phone.cs",
+              "RelativeDocumentMoniker": "Phone.cs",
+              "ToolTip": "D:\\Project VS\\DOTNET_KTKN3\\TP02_Phone\\Phone.cs",
+              "RelativeToolTip": "Phone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:38:26.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\TP02_Phone\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "D:\\Project VS\\DOTNET_KTKN3\\TP02_Phone\\FormMain.cs [Design]",
+              "RelativeToolTip": "FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:38:23.752Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
