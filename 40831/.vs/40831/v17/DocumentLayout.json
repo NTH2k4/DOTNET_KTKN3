@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Project VS\\DOTNET_KTKN3\\40831\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{84177FE8-7BA4-4632-AE75-95F4D8BF534F}|40831.csproj|d:\\project vs\\dotnet_ktkn3\\40831\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84177FE8-7BA4-4632-AE75-95F4D8BF534F}|40831.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84177FE8-7BA4-4632-AE75-95F4D8BF534F}|40831.csproj|d:\\project vs\\dotnet_ktkn3\\40831\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84177FE8-7BA4-4632-AE75-95F4D8BF534F}|40831.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{84177FE8-7BA4-4632-AE75-95F4D8BF534F}|40831.csproj|d:\\project vs\\dotnet_ktkn3\\40831\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84177FE8-7BA4-4632-AE75-95F4D8BF534F}|40831.csproj|solutionrelative:projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84177FE8-7BA4-4632-AE75-95F4D8BF534F}|40831.csproj|d:\\project vs\\dotnet_ktkn3\\40831\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84177FE8-7BA4-4632-AE75-95F4D8BF534F}|40831.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "FormMain.cs [Design]",
               "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\40831\\FormMain.cs",
               "RelativeDocumentMoniker": "FormMain.cs",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProjectDbContext.cs",
               "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\40831\\ProjectDbContext.cs",
               "RelativeDocumentMoniker": "ProjectDbContext.cs",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "ProjectDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T13:52:00.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T13:52:00.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Project.cs",
               "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\40831\\Project.cs",
               "RelativeDocumentMoniker": "Project.cs",
@@ -67,21 +66,19 @@
               "RelativeToolTip": "Project.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T13:51:48.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T13:51:48.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FormMain.cs",
               "DocumentMoniker": "D:\\Project VS\\DOTNET_KTKN3\\40831\\FormMain.cs",
               "RelativeDocumentMoniker": "FormMain.cs",
               "ToolTip": "D:\\Project VS\\DOTNET_KTKN3\\40831\\FormMain.cs",
               "RelativeToolTip": "FormMain.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAqwEQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwEQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T13:50:45.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T13:50:45.198Z"
             }
           ]
         }
